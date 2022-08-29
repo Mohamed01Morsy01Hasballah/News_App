@@ -1,0 +1,267 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "China's Guangdong summons Evergrande boss after debt repayment warning - Reuters",
+      "description": "China's Guangdong province on Friday summoned the chairman of China Evergrande Group <a href=\"https://www.reuters.com/companies/3333.HK\" target=\"_blank\">(3333.HK)</a> after the real estate developer said there was \"no guarantee\" it would have enough funds to …",
+      "url": "https://www.reuters.com/markets/rates-bonds/china-evergrande-gets-260-mln-guarantee-demand-2021-12-03/",
+      "urlToImage": "https://www.reuters.com/resizer/iroCDxAYK5ZuPj4MazWeReV44ow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2NVWEIR7GRJTFIGUHBBBRG6WWM.jpg",
+      "publishedAt": "2021-12-03T16:26:00Z",
+      "content": "BEIJING, Dec 3 (Reuters) - China's Guangdong province on Friday summoned the chairman of China Evergrande Group (3333.HK) after the real estate developer said there was \"no guarantee\" it would have e… [+2837 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Jacob Sonenshine, Jack Denton",
+      "title": "Stock Market Today: Dow Falls After Weak Jobs Report - Barron's",
+      "description": "The U.S. added 210,000 jobs for the month of November, lower than the expected 573,000 and lower than October’s result of 531,000.",
+      "url": "https://www.barrons.com/articles/stock-market-today-51638526763",
+      "urlToImage": "https://images.barrons.com/im-443552/social",
+      "publishedAt": "2021-12-03T16:08:00Z",
+      "content": "The stock market was falling on Friday as investors digested the November jobs report. The labor market is stronger than the headline result would suggest, making the Federal Reserve more likely to a… [+3646 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Julia Horowitz, CNN Business",
+      "title": "Didi's delisting could spell the end for Chinese stocks on Wall Street - CNN",
+      "description": "The era of big Chinese companies heading to the United States to raise money may have just come to an end.",
+      "url": "https://www.cnn.com/2021/12/03/investing/premarket-stocks-trading/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211203070157-china-didi-ride-hailing-platform-120321-file-restricted-super-tease.jpg",
+      "publishedAt": "2021-12-03T16:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Taylor Locke",
+      "title": "Charlie Munger says he wishes cryptocurrencies had 'never been invented' and admires China for banning them - CNBC",
+      "description": "Billionaire investor Charlie Munger still isn't a fan of cryptocurrency: \"I wish they'd never been invented,\" he reportedly said.",
+      "url": "https://www.cnbc.com/2021/12/03/charlie-munger-wishes-cryptocurrency-didnt-exist-admires-chinas-ban.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105891940-1556912146945gettyimages-1140932026.jpeg?v=1638545151",
+      "publishedAt": "2021-12-03T15:54:56Z",
+      "content": "Billionaire investor Charlie Munger still isn't a fan of cryptocurrency.\r\n\"I wish they'd never been invented,\" Munger said at the Sohn conference in Sydney on Friday, according to The Australian Fina… [+1884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Sabrina Escobar",
+      "title": "With Peloton, 'Patience Required.' Deutsche Bank Starts Coverage at Buy. - Barron's",
+      "description": "Deutsche Bank initiates coverage on Peloton, taking a bullish view on a stock that has struggled in recent months.",
+      "url": "https://www.barrons.com/articles/peloton-pton-deutsche-bank-buy-rating-51638542442",
+      "urlToImage": "https://images.barrons.com/im-445683/social",
+      "publishedAt": "2021-12-03T15:43:00Z",
+      "content": "Shares of Peloton Interactive were falling Friday even after Deutsche Bank initiated coverage on the stock at Buy despite its recent tumbles.\r\nIn addition to the Buy rating, analyst Chris Woronka set… [+142 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Ford aims to be world's #2 electric vehicle maker within two years - COO - Reuters",
+      "description": "Ford Motor Co <a href=\"https://www.reuters.com/companies/F.N\" target=\"_blank\">(F.N)</a> expects to be the world's second largest electric vehicle manufacturer within two years, with annual production capacity of nearly 600,000, a top company executive said Fr…",
+      "url": "https://www.reuters.com/business/autos-transportation/ford-aims-be-worlds-2-electric-vehicle-maker-within-two-years-coo-2021-12-03/",
+      "urlToImage": "https://www.reuters.com/resizer/Uqx8S-iVUM2F8GAnp1x-bm89Xe4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LNFQRMJE4RLL5CTY3K4QVRYBOM.jpg",
+      "publishedAt": "2021-12-03T15:27:00Z",
+      "content": "Dec 3 (Reuters) - Ford Motor Co (F.N) expects to be the world's second largest electric vehicle manufacturer within two years, with annual production capacity of nearly 600,000, a top company executi… [+2063 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "BioNTech CEO says vaccine upgrade on the cards, ready to move quickly - Reuters",
+      "description": "BioNTech should be able to adapt its coronavirus vaccine relatively quickly in response to the Omicron variant, and the next few weeks will show how urgently an upgrade is needed, its CEO Ugur Sahin told the Reuters Next conference on Friday.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-ceo-says-can-adapt-vaccine-quickly-omicron-2021-12-03/",
+      "urlToImage": "https://www.reuters.com/resizer/cT8Z4fZQH2kTXzR4MVay_HtJPB4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ITU4XKPHB5ORFAAWHR2F3N3VCY.jpg",
+      "publishedAt": "2021-12-03T15:23:00Z",
+      "content": "FRANKFURT, Dec 3 (Reuters) - BioNTech should be able to adapt its coronavirus vaccine relatively quickly in response to the Omicron variant, and the next few weeks will show how urgently an upgrade i… [+3841 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Gabe Cohen, CNN",
+      "title": "Thousands of Americans will still be without power and heat this winter despite call for utility companies to prevent shutoffs - CNN",
+      "description": "As Michael Lundy cradles her newborn son, she's mentally preparing to pack up and leave her Detroit home again.",
+      "url": "https://www.cnn.com/2021/12/03/us/detroit-power-shutoff-energy-prices/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211202113931-01-detroit-utilities-debt-super-tease.jpg",
+      "publishedAt": "2021-12-03T15:07:00Z",
+      "content": "Detroit (CNN)As Michael Lundy cradles her newborn son, she's mentally preparing to pack up and leave her Detroit home again.\r\nShe just got a shutoff notice from the power company, owes more than $2,4… [+5485 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "U.S. job growth slows; unemployment rate plunges to 4.2% - Reuters",
+      "description": "U.S. employment growth slowed considerably in November amid job losses at retailers and in local government education, but the unemployment rate plunged to a 21-month low of 4.2%, suggesting the labor market was rapidly tightening.",
+      "url": "https://www.reuters.com/markets/us/us-job-growth-misses-expectations-november-unemployment-rate-dives-42-2021-12-03/",
+      "urlToImage": "https://www.reuters.com/resizer/duiEy--Mf1XIqcIn1cNNqZnRMUc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K45F5KACAJMYPAFTMA6LFRV4SU.jpg",
+      "publishedAt": "2021-12-03T14:59:00Z",
+      "content": "WASHINGTON, Dec 3 (Reuters) - U.S. employment growth slowed considerably in November amid job losses at retailers and in local government education, but the unemployment rate plunged to a 21-month lo… [+5202 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Jack Denton",
+      "title": "Nvidia’s Purchase of Arm Looks Dead. What Comes Next? - Barron's",
+      "description": "Analysts have been pessimistic about the $40 billion deal for a while. Not being able to buy Arm may not hurt Nvidia stock all that much.",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-arm-acquisition-ftc-51638533956",
+      "urlToImage": "https://images.barrons.com/im-436455/social",
+      "publishedAt": "2021-12-03T14:51:00Z",
+      "content": "Nvidias $40 billion purchase of Armheralded as the biggest deal in the history of the semiconductor industrylooks dead in the water.\r\nThe Federal Trade Commission sued to block the deal Thursday, cit… [+263 chars]"
+    },
+
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "DocuSign Stock Plunges As Revenue Guidance For DOCU Stock Misses Expectations - Investor's Business Daily",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L2RvY3VzaWduLXN0b2NrLXBsdW5nZXMtYXMtcmV2ZW51ZS1ndWlkYW5jZS1taXNzZXMtZXhwZWN0YXRpb25zL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-12-03T14:50:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Silvia Amaro",
+      "title": "IMF urges the Fed to speed up monetary policy tightening amid mounting inflation fears - CNBC",
+      "description": "It would be \"appropriate\" for the Fed to accelerate tapering and bring forward the path for rate hikes, the International Monetary Fund said.",
+      "url": "https://www.cnbc.com/2021/12/03/imf-urges-fed-to-speed-up-policy-tightening-amid-rising-inflation-risk.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106908320-16257626182021-07-07t144235z_787707589_rc2qfo9civdy_rtrmadp_0_usa-fed.jpeg?v=1625762727",
+      "publishedAt": "2021-12-03T14:31:01Z",
+      "content": "The U.S. Federal Reserve should tighten monetary policy at a faster pace in light of rising inflation risks, the International Monetary Fund said on Friday.\r\nThe Fed decided in early November to star… [+1954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lizzy Gurdus",
+      "title": "There's no reason why Ford shouldn't break above $20, trader says - CNBC",
+      "description": "Ford's stock looks primed for upside as it maintains relative strength versus the broader market and its industry peers, Todd Gordon says.",
+      "url": "https://www.cnbc.com/2021/12/03/theres-no-reason-why-ford-shouldnt-break-above-20-trader-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106967408-1635455918217-gettyimages-1349818809-l1002399_2021102835504590.jpeg?v=1635455976",
+      "publishedAt": "2021-12-03T14:21:50Z",
+      "content": "Ford's fate looks rosy to Inside Edge Capital Management founder Todd Gordon.\r\nWith shares of the automaker meeting resistance in the $20 range, \"I see no reason\" why they can't break decisively abov… [+1295 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "November jobs report disappoints - Fox Business",
+      "description": "FOX Business' Cheryl Casone breaks down the November jobs report as 210,000 new jobs were added to the U.S. economy, falling short of the 550,000 estimate. #...",
+      "url": "https://www.youtube.com/watch?v=ohwQp-s0R3c",
+      "urlToImage": "https://i.ytimg.com/vi/ohwQp-s0R3c/maxresdefault.jpg",
+      "publishedAt": "2021-12-03T13:55:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Owen Bellwood",
+      "title": "The Polestar 3 Is The Company’s First SUV And Its Most Important Launch In America - Jalopnik",
+      "description": "Polestar is preparing to launch its first SUV, the Polestar 3, and could be pivotal in the success of the brand.",
+      "url": "https://jalopnik.com/the-polestar-3-is-the-company-s-first-suv-and-its-most-1848151652",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9bb7a5f4a505ac1226c7648d15239275.jpg",
+      "publishedAt": "2021-12-03T13:30:00Z",
+      "content": "When Polestar burst onto the scene as a standalone brand, rather than the engineering skunkworks for sensible car maker Volvo, it did so with a $155,000 hybrid coupe. How un-Volvo.\r\nThis was soon fol… [+3690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Chris Jennings",
+      "title": "Today's mortgage rates rise: Is the savings window closing? | Dec. 3, 2021 - Fox Business",
+      "description": "Check out the mortgage rates for Dec. 3, 2021, which are trending up from yesterday.",
+      "url": "https://www.foxbusiness.com/personal-finance/todays-mortgage-rates-december-3-2021",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Credible-daily-mortgage-rate-thumbnail-1186618062.jpg?ve=1&tl=1",
+      "publishedAt": "2021-12-03T13:28:21Z",
+      "content": "Based on data compiled by Credible, mortgage rates have risen since yesterday.\r\n<ul><li>30-year fixed mortgage rates: 3.125%, up from 3.000%, +0.125</li><li>20-year fixed mortgage rates: 2.875%, up f… [+10567 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Amrith Ramkumar",
+      "title": "AmEx Global Business Travel Going Public Through $5.3 Billion Merger With Apollo SPAC - The Wall Street Journal",
+      "description": "Booking services provider is combining with a blank-check company after it made several acquisitions during pandemic",
+      "url": "https://www.wsj.com/articles/amex-global-business-travel-nears-5-3-billion-merger-with-apollo-spac-11638532801",
+      "urlToImage": "https://images.wsj.net/im-445340/social",
+      "publishedAt": "2021-12-03T13:27:00Z",
+      "content": "American Express Global Business Travel is merging with a blank-check company backed by Apollo Global Management Inc. to go public with a roughly $5.3 billion valuation, the companies said.\r\nA travel… [+289 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Dan Neil",
+      "title": "2022 Ford Maverick XLT: A Lo-Fi Hybrid Truck With a Nice Price - The Wall Street Journal",
+      "description": "Starting under $20K, the Maverick packs a lot of practical utility into a compact pickup, writes Dan Neil",
+      "url": "https://www.wsj.com/articles/2022-ford-maverick-xlt-a-lo-fi-hybrid-truck-with-a-nice-price-11638536401",
+      "urlToImage": "https://images.wsj.net/im-444051/social",
+      "publishedAt": "2021-12-03T13:00:00Z",
+      "content": "BECAUSE NO ONE wanted them around, my people were do-it-yourselfers. Pop made his own machine shop lathe, his own underwater camera housing, his own five-speed transmission. But he wasnt alone. Decad… [+409 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Shaina Mishkin",
+      "title": "Zillow Stock Leaps Because It's Selling the Homes It Bought and Buying Back Shares - Barron's",
+      "description": "The real estate technology company's board also authorized a share repurchase of up to $750 million.",
+      "url": "https://www.barrons.com/articles/zillow-stock-price-homes-sale-share-buyback-51638484329",
+      "urlToImage": "https://images.barrons.com/im-445308/social",
+      "publishedAt": "2021-12-03T12:54:00Z",
+      "content": "Zillow stock jumped after the real estate technology company updated investors on the closure of its homebuying program and authorized a share buyback.  \r\nThe company said Thursday that it sold more … [+228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WOODTV.com"
+      },
+      "author": "Michael Bartiromo, Nexstar Media Wire",
+      "title": "Burger King offering 37-cent Whoppers for 2 days only - WOODTV.com",
+      "description": "On Friday, Dec. 3 and Saturday, Dec. 4, Burger King restaurants nationwide will be serving Whoppers for their original price of just 37 cents.",
+      "url": "https://www.woodtv.com/news/national/burger-king-offering-37-cent-whoppers-for-2-days-only/",
+      "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2021/12/WhopperAP19041521083200.jpg?w=1280",
+      "publishedAt": "2021-12-03T12:43:53Z",
+      "content": "(NEXSTAR) Hear ye, hear ye: His Majesty, the Burger King, is lowering the price of his iconic Whopper sandwiches for the Burger Kingdoms most loyal subjects.\r\nOn Friday, Dec. 3, and Saturday, Dec. 4,… [+1352 chars]"
+    }
+  ]
+}
